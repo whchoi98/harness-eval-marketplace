@@ -15,7 +15,7 @@
         "source": "github",
         "repo": "whchoi98/harness-eval",
         "ref": "main",
-        "sha": "5336e15c7e7d00b95ea95fafcb707d52496bf1f6"
+        "sha": "9a749e7"
       },
       "description": "Systematic 3-tier evaluation of Claude Code harness engineering quality with multi-agent design review, history tracking, and badge generation",
       "version": "0.1.0",
