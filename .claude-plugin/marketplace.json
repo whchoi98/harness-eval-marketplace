@@ -1,0 +1,46 @@
+{
+  "name": "harness-eval-marketplace",
+  "owner": {
+    "name": "WooHyung Choi",
+    "email": "whchoi98@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace for harness engineering quality evaluation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "harness-eval",
+      "source": {
+        "source": "github",
+        "repo": "whchoi98/harness-eval",
+        "ref": "main",
+        "sha": "5336e15c7e7d00b95ea95fafcb707d52496bf1f6"
+      },
+      "description": "Systematic 3-tier evaluation of Claude Code harness engineering quality with multi-agent design review, history tracking, and badge generation",
+      "version": "0.1.0",
+      "author": {
+        "name": "WooHyung Choi",
+        "email": "whchoi98@gmail.com"
+      },
+      "homepage": "https://github.com/whchoi98/harness-eval",
+      "repository": "https://github.com/whchoi98/harness-eval",
+      "license": "MIT",
+      "keywords": [
+        "evaluation",
+        "harness",
+        "quality-assessment",
+        "claude-code",
+        "multi-agent"
+      ],
+      "category": "development-tools",
+      "tags": [
+        "testing",
+        "quality",
+        "automation",
+        "scoring",
+        "badge"
+      ]
+    }
+  ]
+}
