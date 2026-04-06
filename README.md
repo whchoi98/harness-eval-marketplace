@@ -22,13 +22,13 @@ Independent Claude Code plugin marketplace for harness engineering quality evalu
 ### 1. Add the marketplace
 
 ```bash
-/plugin marketplace add whchoi98/harness-eval-marketplace
+claude plugin marketplace add https://github.com/whchoi98/harness-eval-marketplace
 ```
 
 ### 2. Install the plugin
 
 ```bash
-/plugin install harness-eval@harness-eval-marketplace
+claude plugin install harness-eval@harness-eval-marketplace
 ```
 
 ### 3. Use the evaluation commands
@@ -84,13 +84,13 @@ MIT
 ### 1. 마켓플레이스 추가
 
 ```bash
-/plugin marketplace add whchoi98/harness-eval-marketplace
+claude plugin marketplace add https://github.com/whchoi98/harness-eval-marketplace
 ```
 
 ### 2. 플러그인 설치
 
 ```bash
-/plugin install harness-eval@harness-eval-marketplace
+claude plugin install harness-eval@harness-eval-marketplace
 ```
 
 ### 3. 평가 커맨드 사용
